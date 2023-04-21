@@ -1,4 +1,4 @@
-# epoll-server-c10k
+# epoll-server
 A scalable server written for the C10k problem
 --------------------------------------------------------------------------------
 
